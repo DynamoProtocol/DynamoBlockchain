@@ -1,4 +1,4 @@
-** Dynamo Blockchain
+** Dynamo Blockchain **
 
 Dynamo Blockchain is a sovereign Layer 2 or 3 blockchain, which settles directly to Ethereum or any Ethereum L2.
 
